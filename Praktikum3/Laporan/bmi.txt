@@ -1,0 +1,14 @@
+Mahasiwa ke-1
+Nama		: Wat
+NIM		: 39
+Tinggi Badan	: 170
+Berat Badan	: 50.0
+BMI		: 110.0
+
+Mahasiwa ke-2
+Nama		: Udin
+NIM		: 93
+Tinggi Badan	: 71
+Berat Badan	: 60.0
+BMI		: 65.5
+
